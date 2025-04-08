@@ -8,3 +8,8 @@ Building a comprehensive data warehouse, ETL processes, data modeling and analyt
 3. Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
+**Data Architecture**
+In this project, we are following Medalliion Data Architecture.
+Bronze Layer:
+Silver Layer:
+Gold Layer:
