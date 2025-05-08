@@ -11,10 +11,10 @@ Building a comprehensive data warehouse, ETL processes, data modeling and analyt
 **Data Architecture**
 In this project, we are following Medalliion Data Architecture.
 Bronze Layer:
-this layer is the first
+this layer is the first layer in the data architecture
 
 Silver Layer:
-this layer is the second
+this layer is the second layer in the data architecture
 
 Gold Layer:
-this layyer is the third
+this layyer is the third layer in the data architecture
