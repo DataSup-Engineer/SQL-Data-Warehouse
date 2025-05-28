@@ -14,7 +14,7 @@ Bronze Layer:
 this layer is the first layer in the data architecture and loads the data
 
 Silver Layer:
-this layer is the second layer in the data architecture
+this layer is the second layer in the data architecture, makes changes to the data
 
 Gold Layer:
 this layyer is the third layer in the data architecture
