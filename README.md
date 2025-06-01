@@ -17,4 +17,4 @@ Silver Layer:
 this layer is the second layer in the data architecture, makes changes to the data
 
 Gold Layer:
-this layyer is the third layer in the data architecture
+this layyer is the third layer in the data architecture, extracts insights from the data
