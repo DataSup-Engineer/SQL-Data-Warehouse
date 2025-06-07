@@ -9,7 +9,7 @@ Building a comprehensive data warehouse, ETL processes, data modeling and analyt
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 **Data Architecture**
-In this project, we are following Medalliion Data Architecture.
+In this project, we are following Medalliion Data Architecture, which consists of three phases:
 Bronze Layer:
 this layer is the first layer in the data architecture and loads the data which is in raw unprocesses data
 
