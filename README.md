@@ -14,7 +14,7 @@ In this project, we are following Medalliion Data Architecture, which consists o
 this layer is the first layer in the data architecture and loads the data which is in raw unprocesses data as it from sources data in table form.
 
 **Silver Layer:**
-this layer is the second layer in the data architecture, makes changes to the data
+this layer is the second layer in the data architecture, makes changes to the data in the table form.
 
 **Gold Layer:**
 this layyer is the third layer in the data architecture, extracts insights from the data and visualizes
