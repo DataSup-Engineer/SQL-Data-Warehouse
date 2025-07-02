@@ -12,7 +12,7 @@ Building a comprehensive data warehouse, ETL processes, data modeling and analyt
 In this project, we are following Medalliion Data Architecture, which consists of three phases:
 
 **Bronze Layer:**
-this layer is the first layer in the data architecture and loads the data which is in raw unprocesses data as it from sources data in table form.
+this layer is the first layer in the data architecture and loads the data which is in raw unprocessed data as it from sources data in table form.
 
 **Silver Layer:**
 this layer is the second layer in the data architecture, makes changes to the data in the table form.
