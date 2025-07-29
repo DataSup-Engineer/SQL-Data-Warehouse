@@ -1,6 +1,6 @@
 **SQL DATA WAREHOUSE & ANALYTICS PROJECT**
 
-Building a comprehensive data warehouse, ETL processes, data modeling and analytical solution to derive insights from the data using MySQL
+Building a comprehensive data warehouse, ETL processes, data modeling and analytical solution to derive insights from the data using MySQL.
 
 **Project Overview**
 1. Data Architecture: The Data Warehouse is designed using Medallion Architecture.
