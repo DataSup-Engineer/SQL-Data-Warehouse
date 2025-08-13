@@ -18,4 +18,4 @@ this layer is the first layer in the data architecture and loads the data which 
 this layer is the second layer in the data architecture, makes changes to the data in the table form.
 
 **Gold Layer:**
-this layyer is the third layer in the data architecture, extracts insights from the data and visualizes
+this layyer is the third layer in the data architecture, extracts insights from the data and visualizes.
